@@ -32,3 +32,5 @@
 
 - Doc tweaks (2024-7-24 9:19:00)
 
+- Performance tuning (2024-8-15 16:30:00)
+
